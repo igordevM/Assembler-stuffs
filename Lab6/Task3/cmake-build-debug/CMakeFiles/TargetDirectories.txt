@@ -1,0 +1,3 @@
+/home/igor/desktop/MietStudy/assembler/forcked_labs/FirstAssemblySteps/Lab6/Task3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/igor/desktop/MietStudy/assembler/forcked_labs/FirstAssemblySteps/Lab6/Task3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/igor/desktop/MietStudy/assembler/forcked_labs/FirstAssemblySteps/Lab6/Task3/cmake-build-debug/CMakeFiles/lab_6_3.dir

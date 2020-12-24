@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/igor/desktop/MietStudy/assembler/forcked_labs/FirstAssemblySteps/Lab6/Task2/main.cpp
+iostream
+-
+stdio.h
+-
+
